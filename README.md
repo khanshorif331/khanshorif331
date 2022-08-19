@@ -35,4 +35,3 @@ Skills: REACT / JS / HTML / CSS / Mongodb / Firebase / Redux / Mongoose
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=khanshorif331&theme=synthwave)  
 
-![Profile views](https://gpvc.arturio.dev/khanshorif331)  
