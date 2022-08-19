@@ -14,6 +14,8 @@ Skills: REACT / JS / HTML / CSS / Mongodb / Firebase / Redux / Mongoose
 - ⚡ Fun fact: Love to explore new things,love to travel and make a lot of friends. 
 <br/>
 
+![Profile views](https://gpvc.arturio.dev/khanshorif331)  
+
 ## :mailbox: Reach me out
 
 <br />
