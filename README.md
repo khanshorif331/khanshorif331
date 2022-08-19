@@ -31,7 +31,9 @@ Skills: REACT / JS / HTML / CSS / Mongodb / Firebase / Redux / Mongoose
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=khanshorif331&show_icons=true&count_private=true&theme=synthwave)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=khanshorif331&theme=radical)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=khanshorif331&theme=radical)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=khanshorif331&theme=radical)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=khanshorif331)  
+
+  
 
