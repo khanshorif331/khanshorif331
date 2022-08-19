@@ -27,7 +27,7 @@ Skills: REACT / JS / HTML / CSS / Mongodb / Firebase / Redux / Mongoose
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanshorif331&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=khanshorif331&show_icons=true&count_private=true&theme=gruvbox)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=khanshorif331&show_icons=true&count_private=true&theme=tokyonight)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=khanshorif331)  
 
