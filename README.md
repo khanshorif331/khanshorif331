@@ -1,6 +1,6 @@
+![I am a self taught Web Developer.](https://thumbs.gfycat.com/CircularFlakyLadybird-max-1mb.gif)
 ### Hi there 👋, My name is Shoriful Islam.
 #### I am a self taught Web Developer.
-![I am a self taught Web Developer.](https://thumbs.gfycat.com/CircularFlakyLadybird-max-1mb.gif)
 
 I am Shoriful Islam. I am a web developer.I love to create Dynamic and awesome websites using Mern Stack.Though I am new to this world I just love to do that.Also I love to take new challenges.Client's satisfaction is my first priority.
 
