@@ -1,4 +1,4 @@
-![I am a self taught Web Developer.](https://thumbs.gfycat.com/CircularFlakyLadybird-max-1mb.gif)
+![I am a self taught Web Developer.](https://cdn.dribbble.com/users/161589/screenshots/2126344/freelance_dribbble_shot_v7.gif)
 ### Hi there 👋, My name is Shoriful Islam.
 #### I am a self taught Web Developer.
 
