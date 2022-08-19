@@ -2,7 +2,7 @@
 ### Hi there 👋, My name is Shoriful Islam.
 #### I am a self taught Web Developer.
 
-I am Shoriful Islam. I am a web developer.I love to create Dynamic and awesome websites using Mern Stack.Though I am new to this world I just love to do that.Also I love to take new challenges.Client's satisfaction is my first priority.
+I am Shoriful Islam. I am a web developer.I love to create Dynamic and awesome websites using Mern Stack.Though I am new to this world I just love to do that.Also I love to take new challenges.
 
 Skills: REACT / JS / HTML / CSS / Mongodb / Firebase / Redux / Mongoose 
 
