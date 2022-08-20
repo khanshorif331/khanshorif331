@@ -1,4 +1,4 @@
-<img height="400" width="100%" src="https://cdn.dribbble.com/users/161589/screenshots/2126344/freelance_dribbble_shot_v7.gif"/>
+<img src="https://cdn.dribbble.com/users/161589/screenshots/2126344/freelance_dribbble_shot_v7.gif"/>
 ### Hi there 👋, My name is Shoriful Islam.
 #### I am a self taught Web Developer.
 
