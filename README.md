@@ -1,6 +1,6 @@
 <img src="https://cdn.dribbble.com/users/161589/screenshots/2126344/freelance_dribbble_shot_v7.gif"/>
-### Hi there 👋, My name is Shoriful Islam.
-#### I am a self taught Web Developer.
+<h2> Hi there 👋, My name is Shoriful Islam.</h2>
+<h3> Frontend Developer || ReactJs Developer || Mern Stack Developer </h3>
 
 
 ## **About Me: <img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40">**
