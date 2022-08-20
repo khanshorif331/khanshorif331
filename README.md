@@ -2,6 +2,8 @@
 ### Hi there 👋, My name is Shoriful Islam.
 #### I am a self taught Web Developer.
 
+
+## **About Me: <img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40">**
 I am Shoriful Islam. I am a web developer.I love to create Dynamic and awesome websites using Mern Stack.Though I am new to this world I just love to do that.Also I love to take new challenges.
 
 
