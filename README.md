@@ -47,7 +47,7 @@ I am Shoriful Islam. I am a web developer.I love to create Dynamic and awesome w
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
+  <img src="https://profile-counter.glitch.me/khanshorif3331/count.svg" />
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=khanshorif331&show_icons=true&count_private=true&theme=synthwave)  
