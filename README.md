@@ -1,4 +1,6 @@
+<div align='center'>
 <img src="https://cdn.dribbble.com/users/161589/screenshots/2126344/freelance_dribbble_shot_v7.gif"/>
+</div>
 <h2> Hi there 👋, My name is Shoriful Islam.</h2>
 <h3> Frontend Developer || ReactJs Developer || Mern Stack Developer </h3>
 
